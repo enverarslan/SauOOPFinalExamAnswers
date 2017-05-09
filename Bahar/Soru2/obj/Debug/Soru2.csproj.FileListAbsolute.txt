@@ -1,0 +1,5 @@
+S:\Free\NET\Ornekler\SauFinal\Bahar\Soru2\bin\Debug\Soru2.exe.config
+S:\Free\NET\Ornekler\SauFinal\Bahar\Soru2\bin\Debug\Soru2.exe
+S:\Free\NET\Ornekler\SauFinal\Bahar\Soru2\bin\Debug\Soru2.pdb
+S:\Free\NET\Ornekler\SauFinal\Bahar\Soru2\obj\Debug\Soru2.exe
+S:\Free\NET\Ornekler\SauFinal\Bahar\Soru2\obj\Debug\Soru2.pdb

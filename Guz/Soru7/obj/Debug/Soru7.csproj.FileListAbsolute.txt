@@ -1,0 +1,5 @@
+S:\Free\NET\Ornekler\SauFinal\Guz\Soru7\bin\Debug\Soru7.exe.config
+S:\Free\NET\Ornekler\SauFinal\Guz\Soru7\bin\Debug\Soru7.exe
+S:\Free\NET\Ornekler\SauFinal\Guz\Soru7\bin\Debug\Soru7.pdb
+S:\Free\NET\Ornekler\SauFinal\Guz\Soru7\obj\Debug\Soru7.exe
+S:\Free\NET\Ornekler\SauFinal\Guz\Soru7\obj\Debug\Soru7.pdb
